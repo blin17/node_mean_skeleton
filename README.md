@@ -8,5 +8,6 @@ Note: Write all controller code in src/server/routes.js
 
 RUN
 ---
+mongod
 npm install
 node app.js

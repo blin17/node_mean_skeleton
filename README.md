@@ -4,3 +4,9 @@ Serves as a preset skeleton. Requires mongod to be running for it to work
 
 
 Note: Write all controller code in src/server/routes.js 
+
+
+RUN
+---
+npm install
+node app.js
